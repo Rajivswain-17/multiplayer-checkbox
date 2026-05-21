@@ -19,7 +19,7 @@ function initCheckboxes () {
             id: i,
             checked: false,
             lastClickedBy: "",
-            lastClickedAt: new Date(0)
+            lastClickedAt: 0
         });
 
         

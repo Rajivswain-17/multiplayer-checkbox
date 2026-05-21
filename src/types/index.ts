@@ -3,7 +3,7 @@
     id: number;
     checked: boolean;
     lastClickedBy: string;
-    lastClickedAt: Date;
+    lastClickedAt: number;
 
  }
 
